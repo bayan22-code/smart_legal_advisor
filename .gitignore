@@ -1,0 +1,7 @@
+.env
+legal_rag/vector_db/
+legal_rag/bm25_index.pkl
+__pycache__/
+*.pyc
+.venv/
+venv/
